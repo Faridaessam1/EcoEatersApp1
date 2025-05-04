@@ -1,0 +1,2 @@
+D:/data cleint/data c/AndroidStudioProjects/EcoEatersApp1/android/app/.cxx/Debug/6h466jl4/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/data cleint/data c/AndroidStudioProjects/EcoEatersApp1/android/app/.cxx/Debug/6h466jl4/arm64-v8a/CMakeFiles/rebuild_cache.dir

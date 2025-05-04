@@ -1,0 +1,60 @@
+[33m2d53fc9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmariem-feauture[m[33m)[m *finish ads logic
+[33m22af390[m *last update today
+[33mc1e7d72[m Merge pull request #8 from Faridaessam1/shahd-feature
+[33m5f8f8f3[m[33m ([m[1;31morigin/shahd-feature[m[33m)[m Merge branch 'master' into shahd-feature
+[33m567c5db[m *make function to categories in home tab but not used
+[33m1f3d070[m *finish recently added logic in customer home tab
+[33m52b9dae[m *finish get customer profile  data
+[33mc3bd22c[m Merge pull request #7 from Faridaessam1/mariem-feauture
+[33me1c23f0[m Merge pull request #6 from Faridaessam1/farida
+[33m58bebf3[m[33m ([m[1;31morigin/farida[m[33m)[m *finish customer home screen ui
+[33mcda16e9[m[33m ([m[1;31morigin/mariem-feauture[m[33m)[m finish cart logic&delievery screen&payment methos screen
+[33m4fac95c[m finished fetching available dishes from database
+[33m05f547d[m Merge pull request #5 from Faridaessam1/mariem-feauture
+[33m4b5dbd8[m finish cart logic
+[33m7853b2f[m Merge pull request #3 from Faridaessam1/farida
+[33mc4d7561[m *update food cart item logic *update new dish tab (List of categories)
+[33mde1246c[m Merge pull request #2 from Faridaessam1/farida
+[33mbcd6aed[m Merge remote-tracking branch 'master/farida' into farida
+[33m2258332[m *finish food cart item logic
+[33me136c6b[m *finish filteredRestaurants for restaurants tab
+[33m26bba9b[m Merge remote-tracking branch 'origin/master'
+[33m6f8f628[m edit on signup screen
+[33m52f63b8[m Merge pull request #1 from Faridaessam1/farida
+[33ma7e7c95[m Merge branch 'master' into farida
+[33m7e2e2eb[m *finish restaurant tab logic
+[33m1f9982f[m filter order by status + function el available order
+[33m67a674d[m edit on signup screen
+[33m8563213[m edit on login screen
+[33mb301e04[m Merge remote-tracking branch 'origin/master'
+[33m2c28dee[m finish shahd ui
+[33m19cc9f4[m finish feedback ui screen
+[33m377ad3e[m finish feedback ui screen
+[33m99daf09[m finish profile tabs for seller and customer
+[33mc826639[m Merge remote-tracking branch 'origin/master'
+[33m9ce9083[m finish sign in with google&phone
+[33m5d6edfc[m Merge remote-tracking branch 'origin/master'
+[33ma00ca14[m last update today
+[33m9b7a2e6[m finished update seller profile data button
+[33m4f75896[m merge branch 'master' of https://github.com/Faridaessam1/EcoEatersApp3
+[33m4665e71[m Merge remote-tracking branch 'origin/master'
+[33m9db264c[m finish add dish subcollection and used w orders subcollection but not used read data for seller profile
+[33m22868af[m finished forgot password ui and logic
+[33mf5c2607[m edit on seller_sign_up_screen.dart
+[33mf992a5e[m Update A.java
+[33m2f903be[m update signup validations
+[33me8152e6[m Merge pull request #6 from Faridaessam1/mariem-feature
+[33mb73af09[m Merge branch 'master' into mariem-feature
+[33m184251f[m Merge pull request #5 from Faridaessam1/shahd-feature
+[33m91596f6[m Finish  firebase Auth
+[33m9d85f47[m Finished dish data model, get dish collection & create new dish functions
+[33m406a503[m Merge pull request #4 from Faridaessam1/farida-feature
+[33m0f3f0cc[m finish finish restaurant collection and integrate with seller profile
+[33m558a41e[m Merge pull request #3 from Faridaessam1/farida-feature
+[33md2fa852[m finish finish restaurant data model , from firestore function , to firestore functions , get collection ref function
+[33me102d3f[m Merge pull request #2 from Faridaessam1/mariem-feature
+[33mbd4c1ce[m Integration with firebase
+[33mae762a4[m Merge pull request #1 from Faridaessam1/development
+[33m7cbeff8[m finish ecoEaters app
+[33m1432362[m Finish editing  on OnBoarding Screens
+[33mad83b28[m finish ecoEaters app ui
